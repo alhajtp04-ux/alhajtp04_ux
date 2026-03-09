@@ -105,6 +105,20 @@ English | Malayalam
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+# 📬 Contact Me
+
+<p align="center">
+  <a href="www.linkedin.com/in/alhaj-t-p-59a56a372">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/sinanmohammed72099-glitch">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+
+⭐ *Turning Data into Insights and Building Data-Driven Solutions*
 
 📧 Email: [alhajtp04@gmail.com](mailto:alhajtp04@gmail.com)
 📞 +91-8075100149
