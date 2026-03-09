@@ -1,7 +1,13 @@
-# Hi 👋, I'm ALHAJ TP
+Alhaj 04 <alhajtp04@gmail.com>
+2:23 PM (2 minutes ago)
+to alizen23bargas
+
+# alhajtp04_ux
+
+<h1 align="center">Hi 👋, I'm ALHAJ TP</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00F7FF&center=true&vCenter=true&width=900&lines=Aspiring+Data+Analyst;Python+|+SQL+|+Power+BI;Data+Visualization+Enthusiast;Learning+Data+Analytics+Step+by+Step" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00F7FF&center=true&vCenter=true&width=900&lines=Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Data+Visualization+Enthusiast;Learning+Data+Analytics+Step+by+Step" />
 </p>
 
 ---
@@ -79,18 +85,14 @@
 ## 📈 GitHub Analytics
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=alhajtp04&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alhajtp04&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=alhajtp04&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
 ## 🎓 Education
 
-🎓 Diploma in Artificial Intelligence & Data Analytics
+🎓 🎓 Diploma in Artificial Intelligence & Data Analytics
 
 ---
 
@@ -100,27 +102,31 @@ English | Malayalam
 
 ---
 
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/alhajtp04">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 # 📬 Contact Me
 
 <p align="center">
+  <a href="www.linkedin.com/in/alhaj-t-p-59a56a372">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-<a href="https://www.linkedin.com/in/alhaj-t-p-59a56a372">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/alhajtp04">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:alhajtp04@gmail.com">
+  <a href="https://github.com/alhajtp04-ux">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:alhajtp04@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
+</p>
 
-📧 Email: [alhajtp04@gmail.com](mailto:alhajtp04@gmail.com)
-📞 Phone: +91-8075100149
-
----
+- 📧 Email: **alhajtp04@gmail.com**  
+- 📞 +91-8075100149
 
 ⭐ *Turning Data into Insights and Building Data-Driven Solutions*
