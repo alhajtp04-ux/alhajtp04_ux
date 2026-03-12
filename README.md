@@ -108,5 +108,31 @@ English | Malayalam
 📞 **Phone:** +91 8075100149  
 
 ---
+# 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+# 📊 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adarshhue&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+---
+
+
+# 🤝 Let's Connect
+
+If you're interested in **Data Analytics, SQL, Excel, or Power BI**, let's collaborate and build impactful data projects 🚀
+
+---
 
 ⭐ *Turning Data into Insights and Building Data-Driven Solutions*
