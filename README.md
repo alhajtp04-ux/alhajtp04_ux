@@ -120,13 +120,7 @@ English | Malayalam
 
 ---
 
-# 📊 Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ALHAJ&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
----
 
 
 # 🤝 Let's Connect
