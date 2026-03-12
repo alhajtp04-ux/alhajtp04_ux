@@ -1,7 +1,3 @@
-Alhaj 04 <alhajtp04@gmail.com>
-2:23 PM (2 minutes ago)
-to alizen23bargas
-
 # alhajtp04_ux
 
 <h1 align="center">Hi 👋, I'm ALHAJ TP</h1>
@@ -14,9 +10,9 @@ to alizen23bargas
 
 ## 👨‍💻 About Me
 
-📊 I am a **Data Analytics student from India** passionate about turning data into insights.
-📈 Skilled in **Python, Excel, Power BI, and SQL for data analysis and visualization**.
-🚀 Interested in **data cleaning, exploratory data analysis, and dashboard development**.
+📊 I am a **Data Analytics student from India** passionate about turning data into insights.  
+📈 Skilled in **Python, Excel, Power BI, and SQL for data analysis and visualization**.  
+🚀 Interested in **data cleaning, exploratory data analysis, and dashboard development**.  
 🎯 Seeking **entry-level Data Analyst opportunities** to grow and contribute to real-world projects.
 
 ---
@@ -25,66 +21,58 @@ to alizen23bargas
 
 ### 💻 Programming
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🗄 Databases
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 📊 Data Analysis
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 
 ### 📈 Visualization Tools
 
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge\&logo=powerbi)
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge\&logo=microsoft-excel)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel)
 
 ### 🔧 Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 
 ---
 
-## 🔥 Projects
+# 📂 Data Analytics Projects
 
-### 🗳 Vote Management System (Python + Streamlit)
+## 🏥 Hospital Appointment Prediction – Machine Learning
 
-• Developed a web-based voting application using **Python and Streamlit**
-• Implemented secure vote validation and automatic result calculation
-• Designed a simple interface for digital voting
+- Analyzed **110k+ hospital appointment records** to identify patterns in patient attendance and missed appointments.  
+- Performed **data cleaning and exploratory data analysis** using Python libraries such as Pandas, NumPy, and Matplotlib.  
+- Built **machine learning models (Logistic Regression & Random Forest)** to predict patient attendance with about **80% accuracy**.
 
-### 🏠 Bangalore House Price Analysis (Excel)
+---
 
-• Cleaned and analyzed housing price data using **Microsoft Excel**
-• Used pivot tables and charts to identify price trends
-• Created a dashboard to visualize housing insights
+## 🏠 Bangalore House Price Analysis – Excel
 
-### 🚗 Car Sales Analysis Dashboard (Power BI)
+- Analyzed **Bangalore housing dataset** to understand how location, size, and number of rooms influence house prices.  
+- Cleaned and organized the dataset using **Microsoft Excel** and applied **Pivot Tables and charts** for analysis.  
+- Identified **high-value locations and price trends** affecting property prices.
 
-• Built an interactive **Power BI dashboard** for car sales performance
-• Visualized regional sales trends and top-performing models
-• Used KPIs and charts to generate business insights
+---
 
-### 🛍 Diwali Sales Data Analysis (Python)
+## ❤️ Heart Attack Risk Analysis Dashboard – Power BI
 
-• Performed **Exploratory Data Analysis (EDA)** on retail sales dataset
-• Cleaned missing data and analyzed customer purchase behavior
-• Used **Pandas, Matplotlib, and Seaborn** for visualization
-
-### 🌦 Global Weather Temperature Prediction (Machine Learning)
-
-• Built a **machine learning model** to predict temperature
-• Applied **Linear Regression and Decision Tree algorithms**
-• Performed data cleaning, feature selection, and model training
+- Analyzed a **healthcare dataset with 158K+ patient records** to study heart attack risk factors.  
+- Used **Power BI and DAX** to analyze variables such as age, cholesterol, blood pressure, diabetes, smoking, and stress levels.  
+- Built an **interactive dashboard** that identified high-risk patient groups and key medical risk factors.
 
 ---
 
 ## 🎓 Education
 
-🎓 🎓 Diploma in Artificial Intelligence & Data Analytics
+🎓 Diploma in **Data Engineering & Data Analytics**
 
 ---
 
@@ -97,28 +85,28 @@ English | Malayalam
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/alhajtp04">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-# 📬 Contact Me
 
-<p align="center">
-  <a href="www.linkedin.com/in/alhaj-t-p-59a56a372">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<a href="https://www.linkedin.com/in/alhaj-t-p-59a56a372">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-  <a href="https://github.com/alhajtp04-ux">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:alhajtp04@gmail.com">
+<a href="https://github.com/alhajtp04">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:alhajtp04@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
-</p>
 
-- 📧 Email: **alhajtp04@gmail.com**  
-- 📞 +91-8075100149
+---
+
+## 📬 Contact Me
+
+📧 **Email:** alhajtp04@gmail.com  
+📞 **Phone:** +91 8075100149  
+
+---
 
 ⭐ *Turning Data into Insights and Building Data-Driven Solutions*
